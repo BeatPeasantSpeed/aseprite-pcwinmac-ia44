@@ -1,4 +1,4 @@
-# 
+# Ultime Aseprite préréglages pour Mac OS | Mis à jour Aseprite préréglages pour PC Windows. Avec modes de fusion des calques et outils d'armature — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
